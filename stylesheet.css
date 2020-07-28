@@ -2,21 +2,21 @@
   padding-top:18px;
   color: #ff8c00;
   font-size:45px;
-  font-family:"Meiryo";
+  font-family:"MS PMincho";
   text-align: center;
 }
 
 h3 {
   color: #ff8c00;
   font-size:25px;
-  font-family:"Garamond";
+  font-family:"MS PMincho";
   text-align: center;
 }
 
 
 
 a {
-font-family:"Meiryo";
+font-family:"MS PMincho";
 color: #00afcc;
 }
 
@@ -68,12 +68,12 @@ color: #00afcc;
 
 .section4 h5{
   font-size:18px;
-  font-family: "Meiryo";
+  font-family: "MS PMincho";
 }
 
 .section4 p{
   font-size:15px;
-  font-family: "Meiryo";
+  font-family: "MS PMincho";
 }
 
 
