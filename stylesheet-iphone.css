@@ -1,0 +1,103 @@
+.title {
+  padding-top:18px;
+  color: #ff8c00;
+  font-size:45px;
+  font-family: Meiryo;
+  text-align: center;
+}
+
+h3 {
+  color: #ff8c00;
+  font-size:25px;
+  font-family:Garamond;
+  text-align: center;
+}
+
+
+
+a {
+font-family:Garamond;
+color: #00afcc;
+}
+
+.main-logo{
+  position: relative;
+  overflow: hidden;
+}
+
+.main-logo ul {
+  position: relative;
+  left: 50%; /* リスト全体であるul要素を右に50%移動。つまり先頭を中央に持ってくる感じです。 */
+  float: left;
+}
+
+.main-logo ul li {
+  position: relative;
+  left: -50%; /* 各リスト項目になるli要素を左に50%移動。 */
+  float: left;
+  list-style: none; /* 項目にぼっちを出したくない場合はこれを設定（今回はあんまり関係ないですが） */
+  font-size: 20px;
+  padding-right:100px;
+  padding-bottom:20px;
+}
+
+
+
+.hoge{
+  padding-top:40px;
+  text-align: center;
+  padding-bottom:100px;
+}
+
+
+
+.section4{
+  text-align:center;
+}
+
+.section4 .logo{
+  display:inline;
+  zoom:1;
+}
+
+.section4 .site-title{
+  display:table-cell;
+	display:inline-block;
+  width:500px;
+}
+
+.section4 h5{
+  font-size:18px;
+  font-family: Meiryo;
+}
+
+.section4 p{
+  font-size:15px;
+  font-family: Meiryo;
+}
+
+
+
+.section5{
+  text-align:center;
+}
+
+.section5 .twitter-timeline{
+  display:inline;
+  zoom:1;
+}
+
+.section5 .site-title{
+  display:table-cell;
+	display:inline-block;
+  padding-top:87px;
+  padding-left:80px;
+}
+
+
+
+.footer{
+  text-align:center;
+  padding-top:80px;
+  padding-bottom:50px;
+}
