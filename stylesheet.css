@@ -19,7 +19,7 @@ color: #00afcc;
 }
 
 
-@media (max-width: 1000px){
+@media screen and (max-width: 750px){
 
 .main-logo{
   position: relative;
