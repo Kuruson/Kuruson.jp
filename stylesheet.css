@@ -19,7 +19,7 @@ color: #00afcc;
 }
 
 
-@media  (max-width: 1300px){
+@media screen and (max-width: 1300px){
 
 .main-logo{
   position: relative;
@@ -38,7 +38,7 @@ color: #00afcc;
   float: left;
   list-style: none; /* 項目にぼっちを出したくない場合はこれを設定（今回はあんまり関係ないですが） */
   font-size: 20px;
-  padding-right:40px;
+  padding-right:20px;
   padding-bottom:20px;
 }
 }
