@@ -13,42 +13,12 @@ h3 {
   text-align: center;
 }
 
-
-@media (max-width: 1300px){
-
-a {
-font-family:Garamond;
-color: #000000;
-}	
-	
-.main-logo{
-  position: relative;
-  overflow: hidden;
-}
-
-.main-logo ul {
-  position: relative;
-  left: 50%; /* リスト全体であるul要素を右に50%移動。つまり先頭を中央に持ってくる感じです。 */
-  float: left;
-}
-
-.main-logo ul li {
-  position: relative;
-  left: -50%; /* 各リスト項目になるli要素を左に50%移動。 */
-  float: left;
-  list-style: none; /* 項目にぼっちを出したくない場合はこれを設定（今回はあんまり関係ないですが） */
-  font-size: 5px;
-  padding-right:1px;
-  padding-bottom:20px;
-}
-}
-
-
-
 a {
 font-family:Garamond;
 color: #00afcc;
 }
+
+
 
 .main-logo{
   position: relative;
