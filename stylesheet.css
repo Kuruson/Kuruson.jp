@@ -14,7 +14,7 @@ h3 {
 }
 
 
-@media screen and (max-width: 1300px){
+@media (max-width: 1300px){
 
 a {
 font-family:Garamond;
