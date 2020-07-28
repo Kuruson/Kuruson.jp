@@ -38,7 +38,7 @@ color: #00afcc;
   float: left;
   list-style: none; /* 項目にぼっちを出したくない場合はこれを設定（今回はあんまり関係ないですが） */
   font-size: 20px;
-  padding-right:300px;
+  padding-right:400px;
   padding-bottom:20px;
 }
 }
