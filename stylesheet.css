@@ -2,21 +2,21 @@
   padding-top:18px;
   color: #ff8c00;
   font-size:45px;
-  font-family: ＭＳ Ｐ明朝;
+  font-family: 'Meiryo UI', sans-serif;
   text-align: center;
 }
 
 h3 {
   color: #ff8c00;
   font-size:25px;
-  font-family:ＭＳ Ｐ明朝;
+  font-family:'Meiryo UI', sans-serif;
   text-align: center;
 }
 
 
 
 a {
-font-family:ＭＳ Ｐ明朝;
+font-family:'Meiryo UI', sans-serif;
 color: #00afcc;
 }
 
@@ -68,12 +68,12 @@ color: #00afcc;
 
 .section4 h5{
   font-size:18px;
-  font-family: ＭＳ Ｐ明朝;
+  font-family: 'Meiryo UI', sans-serif;
 }
 
 .section4 p{
   font-size:15px;
-  font-family: ＭＳ Ｐ明朝;
+  font-family: 'Meiryo UI', sans-serif;
 }
 
 
