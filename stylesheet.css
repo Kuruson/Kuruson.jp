@@ -1,4 +1,4 @@
-.title {
+.header title {
   padding-top:18px;
   color: #ff8c00;
   font-size:45px;
@@ -105,7 +105,7 @@ color: #00afcc;
 
 
 @media screen and (max-width: 769px) {	
-.title {
+.header title {
   padding-top:18px;
   color: #000000;
   font-size:45px;
