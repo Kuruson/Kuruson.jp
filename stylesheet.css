@@ -13,14 +13,14 @@ h3 {
   text-align: center;
 }
 
-a {
-font-family:Garamond;
-color: #00afcc;
-}
-
 
 @media screen and (max-width: 1300px){
 
+a {
+font-family:Garamond;
+color: #000000;
+}	
+	
 .main-logo{
   position: relative;
   overflow: hidden;
@@ -41,6 +41,13 @@ color: #00afcc;
   padding-right:1px;
   padding-bottom:20px;
 }
+}
+
+
+
+a {
+font-family:Garamond;
+color: #00afcc;
 }
 
 .main-logo{
