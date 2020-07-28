@@ -18,6 +18,12 @@ font-family:Garamond;
 color: #00afcc;
 }
 
+@media screen and (max-width: 700px) {
+  a {
+font-family:Garamond;
+color: #000000;
+}
+}
 
 
 .main-logo{
