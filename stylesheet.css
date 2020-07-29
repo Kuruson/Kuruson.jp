@@ -163,7 +163,7 @@ color: #00afcc;
 
   .main-logo ul {
     position: relative;
-    left: 40%; /* リスト全体であるul要素を右に50%移動。つまり先頭を中央に持ってくる感じです。 */
+    left: 46%; /* リスト全体であるul要素を右に50%移動。つまり先頭を中央に持ってくる感じです。 */
     float: left;
 }
   
