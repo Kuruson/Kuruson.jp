@@ -1,9 +1,9 @@
 .title {
+  font-family:"ＭＳ 明朝","MS Mincho";
   padding-top:18px;
-  color: #000000;
-  font-size:45px;
-  font-family:"ＭＳ 明朝" "MS Mincho";
   text-align: center;
+  color: #dcdcdc;
+  font-size:45px;
 }
 
 h3 {
