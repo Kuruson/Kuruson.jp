@@ -2,7 +2,7 @@
   font-family:"ＭＳ 明朝","MS Mincho";
   padding-top:18px;
   text-align: center;
-  color: #ff8c00;
+  color: #4169e1;
   font-size:45px;
 }
 
@@ -14,11 +14,6 @@ h3 {
 }
 
 
-
-a {
-font-family:"Meiryo";
-color: #00afcc;
-}
 
 .main-logo{
   position: relative;
@@ -36,6 +31,8 @@ color: #00afcc;
   left: -50%; /* 各リスト項目になるli要素を左に50%移動。 */
   float: left;
   list-style: none; /* 項目にぼっちを出したくない場合はこれを設定（今回はあんまり関係ないですが） */
+  font-family:"Meiryo";
+  color: #00afcc;  
   font-size: 20px;
   padding-right:100px;
   padding-bottom:20px;
@@ -147,7 +144,7 @@ color: #00afcc;
 }
 }
 
-@media screen and (min-width:600px) and (max-width:769px){
+@media screen and (min-width:650px) and (max-width:769px){
   .title {
   padding-top:18px;
   color:#008000;
