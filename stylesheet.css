@@ -113,7 +113,7 @@ color: #00afcc;
 }
 }
 
-@media screen and (min-width:901px) and ( max-width:1180px) {
+@media screen and (min-width:901px) and ( max-width:1175px) {
   .title {
   padding-top:18px;
   color: #008b8b;
