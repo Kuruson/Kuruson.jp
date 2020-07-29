@@ -147,10 +147,10 @@ color: #00afcc;
 }
 }
 
-@media screen and (min-width:500px) and (max-width:769px){
+@media screen and (min-width:600px) and (max-width:769px){
   .title {
   padding-top:18px;
-  color:#ffff00;
+  color:#008000;
   font-size:45px;
   font-family:"MS Mincho";
   text-align: center;
@@ -172,7 +172,7 @@ color: #00afcc;
   left: -50%; /* 各リスト項目になるli要素を左に50%移動。 */
   float: left;
   list-style: none; /* 項目にぼっちを出したくない場合はこれを設定（今回はあんまり関係ないですが） */
-  font-size: 13px;
+  font-size: 14px;
   padding-right:30px;
   padding-bottom:20px;
 }
