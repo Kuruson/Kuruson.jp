@@ -182,3 +182,15 @@ font-family:"Meiryo";
 color: #00afcc;
 }
 }
+
+
+
+@media screen and (max-width:649px){
+  .title {
+  padding-top:18px;
+  color:#008080;
+  font-size:45px;
+  font-family:"MS Mincho";
+  text-align: center;
+}
+  
