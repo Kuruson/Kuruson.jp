@@ -2,7 +2,7 @@
   font-family:"ＭＳ 明朝","MS Mincho";
   padding-top:18px;
   text-align: center;
-  color: #4169e1;
+  color: #ff8c00;
   font-size:45px;
 }
 
@@ -150,7 +150,7 @@ color: #00afcc;
 @media screen and (min-width:650px) and (max-width:769px){
   .title {
   padding-top:18px;
-  color:#008000;
+  color:#ff1493;
   font-size:45px;
   font-family:"MS Mincho";
   text-align: center;
