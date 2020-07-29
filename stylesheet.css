@@ -150,7 +150,7 @@ color: #00afcc;
 @media screen and (min-width:600px) and (max-width:769px){
   .title {
   padding-top:18px;
-  color: #ff1493;
+  color: #0000ff;
   font-size:45px;
   font-family:"MS Mincho";
   text-align: center;
@@ -212,10 +212,11 @@ color: #00afcc;
 
 .section5{
   text-align:center;
+  padding-top:50px;
 }
 
 .section5 .twitter-timeline{
-  padding-top:50px;
+  
 }
 
 .section5 .site-title{
