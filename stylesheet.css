@@ -147,7 +147,7 @@ color: #00afcc;
 }
 }
 
-@media screen and (min-width:650px) and (max-width:769px){
+@media screen and (min-width:620px) and (max-width:769px){
   .title {
   padding-top:18px;
   color:#000000;
@@ -185,10 +185,10 @@ color: #00afcc;
 
 
 
-@media screen and (max-width:649px){
+@media screen and (max-width:619px){
   .title {
   padding-top:18px;
-  color:#008080;
+  color:#ffff00;
   font-size:45px;
   font-family:"MS Mincho";
   text-align: center;
