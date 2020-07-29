@@ -150,7 +150,7 @@ color: #00afcc;
 @media screen and (min-width:650px) and (max-width:769px){
   .title {
   padding-top:18px;
-  color:#ff1493;
+  color:#008080;
   font-size:45px;
   font-family:"MS Mincho";
   text-align: center;
@@ -163,7 +163,7 @@ color: #00afcc;
 
   .main-logo ul {
     position: relative;
-    left: 50%; /* リスト全体であるul要素を右に50%移動。つまり先頭を中央に持ってくる感じです。 */
+    left: 40%; /* リスト全体であるul要素を右に50%移動。つまり先頭を中央に持ってくる感じです。 */
     float: left;
 }
   
