@@ -124,7 +124,7 @@ color: #00afcc;
 }
 }
 
-@media screen and (min-width:800px) and ( max-width:940px) {
+@media screen and (min-width:750px) and ( max-width:940px) {
   .title {
   padding-top:18px;
   color: #1e90ff;
@@ -134,7 +134,7 @@ color: #00afcc;
 }
 }
 
-@media screen and (max-width:799px){
+@media screen and (max-width:749px){
   .title {
   padding-top:18px;
   color: #ff00ff;
