@@ -150,7 +150,7 @@ color: #00afcc;
 @media screen and (min-width:600px) and (max-width:769px){
   .title {
   padding-top:18px;
-  color:#000000;
+  color:#ffff00;
   font-size:45px;
   font-family:"MS Mincho";
   text-align: center;
@@ -181,16 +181,54 @@ color: #00afcc;
 font-family:"Meiryo";
 color: #00afcc;
 }
+  
+  
+.section4{
+  text-align:center;
+}
+
+.section4 .logo{
+  display:inline;
+  zoom:1;
+}
+
+.section4 .site-title{
+  display:table-cell;
+  display:inline-block;
+  width:450px;
+}
+
+.section4 h5{
+  font-size:18px;
+  font-family: "MS PMincho";
+}
+
+.section4 p{
+  font-size:15px;
+  font-family: "MS Mincho";
+}
+
+
+
+.section5{
+  text-align:center;
+}
+
+.section5 .twitter-timeline{
+  display:inline;
+  zoom:1;
+}
+
+.section5 .site-title{
+  display:table-cell;
+  display:inline-block;
+  padding-top:100px;
+  padding-left:5px;
+}  
 }
 
 
 
 @media screen and (max-width:599px){
-  .title {
-  padding-top:18px;
-  color:#008b8b;
-  font-size:45px;
-  font-family:"MS Mincho";
-  text-align: center;
-}
+  
   
