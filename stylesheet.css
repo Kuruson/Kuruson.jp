@@ -173,7 +173,7 @@ color: #00afcc;
   float: left;
   list-style: none; /* 項目にぼっちを出したくない場合はこれを設定（今回はあんまり関係ないですが） */
   font-size: 15px;
-  padding-left:30px;
+  padding-right:30px;
   padding-bottom:20px;
 }
 }
