@@ -103,7 +103,7 @@ color: #00afcc;
 }
 
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 850px) {
   .title {
   padding-top:18px;
   color: #000000;
