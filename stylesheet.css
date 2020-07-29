@@ -101,3 +101,14 @@ color: #00afcc;
   padding-top:80px;
   padding-bottom:50px;
 }
+
+
+@media screen and (max-width: 1200px) {
+  .title {
+  padding-top:18px;
+  color: #000000;
+  font-size:45px;
+  font-family:"MS Mincho";
+  text-align: center;
+}
+}
