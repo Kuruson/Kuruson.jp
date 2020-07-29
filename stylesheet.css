@@ -103,6 +103,15 @@ color: #00afcc;
 }
 
 
+@media screen and(min-width:1600px) {
+  .title {
+  padding-top:18px;
+  color:#808000;
+  font-size:45px;
+  font-family:"MS Mincho";
+  text-align: center;
+}
+}
 
 @media screen and (min-width:1035px) and ( max-width:1207px) {
   .title {
