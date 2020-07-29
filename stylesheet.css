@@ -31,11 +31,14 @@ h3 {
   left: -50%; /* 各リスト項目になるli要素を左に50%移動。 */
   float: left;
   list-style: none; /* 項目にぼっちを出したくない場合はこれを設定（今回はあんまり関係ないですが） */
-  font-family:"Meiryo";
-  color: #00afcc;  
   font-size: 20px;
   padding-right:100px;
   padding-bottom:20px;
+}
+
+a {
+font-family:"Meiryo";
+color: #00afcc;
 }
 
 
@@ -153,15 +156,15 @@ h3 {
   text-align: center;
 }
   
-.main-logo{
-  position: relative;
-  overflow: hidden;
+  .main-logo{
+    position: relative;
+    overflow: hidden;
 }
 
-.main-logo ul {
-  position: relative;
-  left: 50%; /* リスト全体であるul要素を右に50%移動。つまり先頭を中央に持ってくる感じです。 */
-  float: left;
+  .main-logo ul {
+    position: relative;
+    left: 50%; /* リスト全体であるul要素を右に50%移動。つまり先頭を中央に持ってくる感じです。 */
+    float: left;
 }
   
     .main-logo ul li {
@@ -172,5 +175,10 @@ h3 {
   font-size: 14px;
   padding-right:30px;
   padding-bottom:20px;
+}
+ 
+  a {
+font-family:"Meiryo";
+color: #00afcc;
 }
 }
