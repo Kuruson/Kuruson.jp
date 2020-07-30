@@ -480,7 +480,7 @@ color: #00afcc;
   font-family:"ＭＳ 明朝","MS Mincho";
   padding-top:18px;
   text-align: center;
-  color: #a50082;
+  color: #fff462;
   font-size:45px;
 }
   
@@ -491,26 +491,25 @@ color: #00afcc;
 }  
   
 .main-logo{
+  text-align: center;
   position: relative;
+  top:auto;
   overflow: hidden;
 }
 
 .main-logo ul {
   position: relative;
-  left: 50%; /* リスト全体であるul要素を右に50%移動。つまり先頭を中央に持ってくる感じです。 */
-  float: left;
-  text-align:center;
+  top:auto; /* リスト全体であるul要素を右に50%移動。つまり先頭を中央に持ってくる感じです。 */
 }
 
 .main-logo ul li {
   position: relative;
-  left: -50%; /* 各リスト項目になるli要素を左に50%移動。 */
+  top:auto; /* 各リスト項目になるli要素を左に50%移動。 */
   list-style: none; /* 項目にぼっちを出したくない場合はこれを設定（今回はあんまり関係ないですが） */
   font-weight:bold;
   font-size: 20px;
   padding-bottom:20px;
 }
-
   
 .section4{
   text-align:center;
