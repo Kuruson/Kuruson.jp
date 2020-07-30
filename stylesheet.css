@@ -491,20 +491,16 @@ color: #00afcc;
 }  
   
 .main-logo{
-  text-align: center;
   position: relative;
   top:auto;
   overflow: hidden;
 }
 
 .main-logo ul {
-  position: relative;
-  top:auto; /* リスト全体であるul要素を右に50%移動。つまり先頭を中央に持ってくる感じです。 */
+  text-align: center;
 }
 
 .main-logo ul li {
-  position: relative;
-  top:auto; /* 各リスト項目になるli要素を左に50%移動。 */
   list-style: none; /* 項目にぼっちを出したくない場合はこれを設定（今回はあんまり関係ないですが） */
   font-weight:bold;
   font-size: 20px;
