@@ -222,7 +222,7 @@ color: #00afcc;
   font-family:"ＭＳ 明朝","MS Mincho";
   padding-top:18px;
   text-align: center;
-  color: #ffff00;
+  color: #228b22;
   font-size:45px;
 }
   
@@ -243,7 +243,7 @@ color: #00afcc;
   float: left;
   list-style: none; /* 項目にぼっちを出したくない場合はこれを設定（今回はあんまり関係ないですが） */
   font-size: 13px;
-  padding-right:25px;
+  padding-right:20px;
   padding-bottom:20px;
 }
  
