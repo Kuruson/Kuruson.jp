@@ -464,11 +464,13 @@ color: #00afcc;
 }
 
 .main-logo ul {
+  text-align: center;
   position: relative;
   left: 50%; /* リスト全体であるul要素を右に50%移動。つまり先頭を中央に持ってくる感じです。 */
 }
 
 .main-logo ul li {
+  text-align: center;
   position: relative;
   left: -50%; /* 各リスト項目になるli要素を左に50%移動。 */
   list-style: none; /* 項目にぼっちを出したくない場合はこれを設定（今回はあんまり関係ないですが） */
@@ -489,7 +491,7 @@ color: #00afcc;
 .section4 .site-title{
   display:table-cell;
   display:inline-block;
-  width:300px;
+  width:350px;
 }
 
 .section4 h5{
@@ -498,7 +500,7 @@ color: #00afcc;
 }
 
 .section4 p{
-  font-size:9px;
+  font-size:10px;
   font-family: "MS Mincho";
 }
   
