@@ -448,14 +448,7 @@ color: #00afcc;
 
 @media screen and (max-width:499px) {
   
-.title {
-  font-family:"ＭＳ 明朝","MS Mincho";
-  padding-top:18px;
-  text-align: center;
-  color: #fff352;
-  font-size:45px;
-}
-  
+
   .main {
   display: -webkit-box;
   display: -moz-box;
@@ -483,6 +476,13 @@ color: #00afcc;
   box-ordinal-group: 1;
 }  
   
+.title {
+  font-family:"ＭＳ 明朝","MS Mincho";
+  padding-top:18px;
+  text-align: center;
+  color: #a50082;
+  font-size:45px;
+}
   
    
 a {
