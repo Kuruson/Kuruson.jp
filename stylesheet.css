@@ -131,6 +131,14 @@ color: #00afcc;
 }
 
 @media screen and (min-width:770px) and ( max-width:904px) {
+  
+ .title {
+  font-family:"ＭＳ 明朝","MS Mincho";
+  padding-top:18px;
+  text-align: center;
+  color: #fff462;
+  font-size:45px;
+}
    .main-logo ul li {
   position: relative;
   left: -50%; /* 各リスト項目になるli要素を左に50%移動。 */
@@ -151,6 +159,14 @@ color: #00afcc;
 
 @media screen and (min-width:700px) and (max-width:769px){
 
+.title {
+  font-family:"ＭＳ 明朝","MS Mincho";
+  padding-top:18px;
+  text-align: center;
+  color: #fff462;
+  font-size:45px;
+}
+  
   .main-logo{
     position: relative;
     overflow: hidden;
