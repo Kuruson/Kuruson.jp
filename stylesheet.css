@@ -218,11 +218,19 @@ color: #00afcc;
 
 @media screen and (max-width:599px){
 
+.title {
+  font-family:"ＭＳ 明朝","MS Mincho";
+  padding-top:18px;
+  text-align: center;
+  color: #c71585;
+  font-size:45px;
+}  
+  
   .hoge{
+  width:400px; height:215px;
   padding-top:40px;
   text-align: center;
   padding-bottom:100px;
-  width="400" height="215"
 }
   
 }
