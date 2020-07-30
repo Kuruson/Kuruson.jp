@@ -452,17 +452,21 @@ color: #00afcc;
   font-family:"ＭＳ 明朝","MS Mincho";
   padding-top:18px;
   text-align: center;
-  color: #af0082;
+  color: #e3e548;
   font-size:45px;
 }
-  
+   
+a {
+font-family:"Meiryo";
+color: #00afcc;
+}  
   
 .main-logo{
-  text-align: center;
-  overflow: hidden;
+  text-align:center;
 }
 
 .main-logo ul {
+
 }
 
 .main-logo ul li {
@@ -471,11 +475,7 @@ color: #00afcc;
   font-size: 19px;
   padding-bottom:20px;
 }
-  
-a {
-font-family:"Meiryo";
-color: #00afcc;
-}
+
   
 .section4{
   text-align:center;
