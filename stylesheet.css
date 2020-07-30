@@ -218,13 +218,6 @@ color: #00afcc;
 
 @media screen and (min-width:520px) and (max-width:599px) {
 
-  .title {
-  font-family:"ＭＳ 明朝","MS Mincho";
-  padding-top:18px;
-  text-align: center;
-  color: #228b22;
-  font-size:45px;
-}
   
   .main-logo{
     position: relative;
@@ -301,6 +294,32 @@ color: #00afcc;
   color: #ff7f50;
   font-size:45px;
 }
+  
+ .main-logo{
+    position: relative;
+    overflow: hidden;
+}
+
+  .main-logo ul {
+    position: relative;
+    left: 44%; /* リスト全体であるul要素を右に50%移動。つまり先頭を中央に持ってくる感じです。 */
+    float: left;
+}
+  
+    .main-logo ul li {
+  position: relative;
+  left: -50%; /* 各リスト項目になるli要素を左に50%移動。 */
+  float: left;
+  list-style: none; /* 項目にぼっちを出したくない場合はこれを設定（今回はあんまり関係ないですが） */
+  font-size: 13px;
+  padding-right:20px;
+  padding-bottom:20px;
+}
+ 
+  a {
+font-family:"Meiryo";
+color: #00afcc;
+}  
   
 .section4{
   text-align:center;
