@@ -452,31 +452,23 @@ color: #00afcc;
   font-family:"ＭＳ 明朝","MS Mincho";
   padding-top:18px;
   text-align: center;
-  color: #d1de4c;
+  color: #af0082;
   font-size:45px;
 }
   
   
 .main-logo{
   text-align: center;
-  position: relative;
   overflow: hidden;
 }
 
 .main-logo ul {
-  text-align: center;
-  position: relative;
-  left: 70%; /* リスト全体であるul要素を右に50%移動。つまり先頭を中央に持ってくる感じです。 */
 }
 
 .main-logo ul li {
-  text-align: center;
-  position: relative;
-  left: -50%; /* 各リスト項目になるli要素を左に50%移動。 */
   list-style: none; /* 項目にぼっちを出したくない場合はこれを設定（今回はあんまり関係ないですが） */
   font-weight:bold;
   font-size: 19px;
-  padding-right:100px;
   padding-bottom:20px;
 }
   
