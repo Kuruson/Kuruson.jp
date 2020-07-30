@@ -226,7 +226,7 @@ color: #00afcc;
   font-family:"ＭＳ 明朝","MS Mincho";
   padding-top:18px;
   text-align: center;
-  color: #008080;
+  color: #ffff00;
   font-size:45px;
 }
   
@@ -304,6 +304,14 @@ color: #00afcc;
 
 @media screen and (min-width:520px) and (max-width:599px) {
 
+  .title {
+  font-family:"ＭＳ 明朝","MS Mincho";
+  padding-top:18px;
+  text-align: center;
+  color: #008000;
+  font-size:45px;
+}
+  
   
   .main-logo{
     position: relative;
@@ -358,7 +366,7 @@ color: #00afcc;
 }
 
 .section4 p{
-  font-size:15px;
+  font-size:14px;
   font-family: "MS Mincho";
 }
   
@@ -378,6 +386,15 @@ color: #00afcc;
 }
   
 @media screen and (min-width:500px) and (max-width:519px) {
+  
+  .title {
+  font-family:"ＭＳ 明朝","MS Mincho";
+  padding-top:18px;
+  text-align: center;
+  color: #00008b;
+  font-size:45px;
+}
+  
   
  .main-logo{
     position: relative;
@@ -432,7 +449,7 @@ color: #00afcc;
 }
 
 .section4 p{
-  font-size:15px;
+  font-size:14px;
   font-family: "MS Mincho";
 }
   
