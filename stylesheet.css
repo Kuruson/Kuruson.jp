@@ -452,9 +452,38 @@ color: #00afcc;
   font-family:"ＭＳ 明朝","MS Mincho";
   padding-top:18px;
   text-align: center;
-  color: #00608d;
+  color: #9a0d7c;
   font-size:45px;
 }
+  
+  .main {
+  display: -webkit-box;
+  display: -moz-box;
+  display: box;
+  -webkit-box-orient: vertical;
+  -moz-box-orient: vertical;
+  box-orient: vertical;
+}
+
+  .main-logo {
+  -webkit-box-ordinal-group: 3;
+  -moz-box-ordinal-group: 3;
+  box-ordinal-group: 3;
+}
+ 
+  .hoge {
+  -webkit-box-ordinal-group: 2;
+  -moz-box-ordinal-group: 2;
+  box-ordinal-group: 2;
+}  
+  
+  .section4{
+  -webkit-box-ordinal-group: 1;
+  -moz-box-ordinal-group: 1;
+  box-ordinal-group: 1;
+}  
+  
+  
    
 a {
 font-family:"Meiryo";
@@ -523,33 +552,5 @@ color: #00afcc;
 .section5 .site-title{
     display:none;
 }
-  
-  
-  .main {
-  display: -webkit-box;
-  display: -moz-box;
-  display: box;
-  -webkit-box-orient: vertical;
-  -moz-box-orient: vertical;
-  box-orient: vertical;
-}
-
-  .main-logo {
-  -webkit-box-ordinal-group: 3;
-  -moz-box-ordinal-group: 3;
-  box-ordinal-group: 3;
-}
- 
-  .hoge {
-  -webkit-box-ordinal-group: 2;
-  -moz-box-ordinal-group: 2;
-  box-ordinal-group: 2;
-}  
-  
-  .section4{
-  -webkit-box-ordinal-group: 1;
-  -moz-box-ordinal-group: 1;
-  box-ordinal-group: 1;
-}  
 
 }
