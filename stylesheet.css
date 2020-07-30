@@ -265,7 +265,7 @@ color: #00afcc;
   font-family:"ＭＳ 明朝","MS Mincho";
   padding-top:18px;
   text-align: center;
-  color: #ff0000;
+  color: #008b8b;
   font-size:45px;
 }
   
@@ -281,7 +281,7 @@ color: #00afcc;
 .section4 .site-title{
   display:table-cell;
   display:inline-block;
-  width:400px;
+  width:380px;
 }
 
 .section4 h5{
@@ -290,7 +290,7 @@ color: #00afcc;
 }
 
 .section4 p{
-  font-size:12px;
+  font-size:10px;
   font-family: "MS Mincho";
 }
   
