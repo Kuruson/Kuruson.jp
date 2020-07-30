@@ -500,6 +500,13 @@ color: #00afcc;
   box-ordinal-group: 1;
 }  
   
+.title {
+  font-family:"ＭＳ 明朝","MS Mincho";
+  padding-top:28px;
+  text-align: center;
+  color: #ffdc00;
+  font-size:45px;
+}
   
 h3 {
   color: #25b7c0;
@@ -518,8 +525,7 @@ color: #00afcc;
 }
 
 .main-logo ul {
-  position: absolute;
-  margin:auto;
+  position: relative;
 }
 
 .main-logo ul li {
