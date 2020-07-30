@@ -222,9 +222,34 @@ color: #00afcc;
   font-family:"ＭＳ 明朝","MS Mincho";
   padding-top:18px;
   text-align: center;
-  color: #ff0000;
+  color: #2e8b57;
   font-size:45px;
 }  
+  
+.section4{
+  text-align:center;
+}
+
+.section4 .logo{
+  display:inline;
+  zoom:1;
+}
+
+.section4 .site-title{
+  display:table-cell;
+  display:inline-block;
+  width:300px;
+}
+
+.section4 h5{
+  font-size:18px;
+  font-family: "MS PMincho";
+}
+
+.section4 p{
+  font-size:7px;
+  font-family: "MS Mincho";
+}
   
 .section5{
   text-align:center;
