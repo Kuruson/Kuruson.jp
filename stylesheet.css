@@ -216,7 +216,7 @@ color: #00afcc;
 }
 
 
-@media screen and (min-width:504px) and (max-width:599px) {
+@media screen and (min-width:503px) and (max-width:599px) {
 
   
 .section4{
@@ -259,7 +259,7 @@ color: #00afcc;
 }
 }
   
-@media screen and (max-width:503px) {
+@media screen and (max-width:502px) {
   
 .title {
   font-family:"ＭＳ 明朝","MS Mincho";
