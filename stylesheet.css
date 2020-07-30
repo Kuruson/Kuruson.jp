@@ -115,27 +115,26 @@ color: #00afcc;
   padding-bottom:20px;
 }
   
-#main {
-width: 400px;
-display: -webkit-box;
-display: -moz-box;
-display: box;
--webkit-box-orient: vertical;
--moz-box-orient: vertical;
-box-orient: vertical;
+  .main {
+  display: -webkit-box;
+  display: -moz-box;
+  display: box;
+  -webkit-box-orient: vertical;
+  -moz-box-orient: vertical;
+  box-orient: vertical;
 }
 
-#main-logo {
--webkit-box-ordinal-group: 2;
--moz-box-ordinal-group: 2;
-box-ordinal-group: 2;
+  .main-logo {
+  -webkit-box-ordinal-group: 2;
+  -moz-box-ordinal-group: 2;
+  box-ordinal-group: 2;
 }
-#hoge {
--webkit-box-ordinal-group: 1;
--moz-box-ordinal-group: 1;
-box-ordinal-group: 1;
+ 
+  .hoge {
+  -webkit-box-ordinal-group: 1;
+  -moz-box-ordinal-group: 1;
+  box-ordinal-group: 1;
 }  
-
 }
 
 @media screen and (min-width:905px) and ( max-width:1034px) {
