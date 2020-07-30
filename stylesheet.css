@@ -210,6 +210,7 @@ color: #00afcc;
 
 .section5{
   text-align:center;
+  padding-top:87px;
 }
 
 .section5 .twitter-timeline{
@@ -217,10 +218,8 @@ color: #00afcc;
   zoom:1;
 }
 .section5 .site-title{
-    display:table-cell;
-    display:block;
-    padding-left:140px;
-  }
+    display:none;
+}
 }
 
 
