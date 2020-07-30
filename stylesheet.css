@@ -167,7 +167,7 @@ color: #00afcc;
   list-style: none; /* 項目にぼっちを出したくない場合はこれを設定（今回はあんまり関係ないですが） */
   font-size: 14px;
   padding-right:30px;
-  padding-bottom:10px;
+  padding-bottom:2px;
 }
  
   a {
@@ -203,7 +203,7 @@ color: #00afcc;
 
 .section5{
   text-align:center;
-  padding-top:30px;
+  padding-top:15px;
 }
 
 .section5 .twitter-timeline{
