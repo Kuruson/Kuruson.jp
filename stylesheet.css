@@ -115,32 +115,7 @@ color: #00afcc;
   padding-bottom:20px;
 }
   
-  .main {
-  display: -webkit-box;
-  display: -moz-box;
-  display: box;
-  -webkit-box-orient: vertical;
-  -moz-box-orient: vertical;
-  box-orient: vertical;
-}
 
-  .main-logo {
-  -webkit-box-ordinal-group: 3;
-  -moz-box-ordinal-group: 3;
-  box-ordinal-group: 3;
-}
- 
-  .hoge {
-  -webkit-box-ordinal-group: 2;
-  -moz-box-ordinal-group: 2;
-  box-ordinal-group: 2;
-}  
-  
-  .section4{
-  -webkit-box-ordinal-group: 1;
-  -moz-box-ordinal-group: 1;
-  box-ordinal-group: 1;
-}
 }
 
 @media screen and (min-width:905px) and ( max-width:1034px) {
@@ -501,8 +476,29 @@ color: #00afcc;
   font-family:"ＭＳ 明朝","MS Mincho";
   padding-top:18px;
   text-align: center;
-  color: #000000;
+  color: #4169e1;
   font-size:45px;
+}
+  
+  
+.main-logo{
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.main-logo ul {
+  position: relative;
+  left: 50%; /* リスト全体であるul要素を右に50%移動。つまり先頭を中央に持ってくる感じです。 */
+}
+
+.main-logo ul li {
+  position: relative;
+  left: -50%; /* 各リスト項目になるli要素を左に50%移動。 */
+  list-style: none; /* 項目にぼっちを出したくない場合はこれを設定（今回はあんまり関係ないですが） */
+  font-size: 20px;
+  padding-right:100px;
+  padding-bottom:20px;
 }
   
 .section4{
@@ -517,7 +513,7 @@ color: #00afcc;
 .section4 .site-title{
   display:table-cell;
   display:inline-block;
-  width:380px;
+  width:300px;
 }
 
 .section4 h5{
@@ -526,9 +522,11 @@ color: #00afcc;
 }
 
 .section4 p{
-  font-size:10px;
+  font-size:9px;
   font-family: "MS Mincho";
 }
+  
+  
   
 .section5{
   text-align:center;
@@ -543,4 +541,33 @@ color: #00afcc;
 .section5 .site-title{
     display:none;
 }
+  
+  
+  .main {
+  display: -webkit-box;
+  display: -moz-box;
+  display: box;
+  -webkit-box-orient: vertical;
+  -moz-box-orient: vertical;
+  box-orient: vertical;
+}
+
+  .main-logo {
+  -webkit-box-ordinal-group: 3;
+  -moz-box-ordinal-group: 3;
+  box-ordinal-group: 3;
+}
+ 
+  .hoge {
+  -webkit-box-ordinal-group: 2;
+  -moz-box-ordinal-group: 2;
+  box-ordinal-group: 2;
+}  
+  
+  .section4{
+  -webkit-box-ordinal-group: 1;
+  -moz-box-ordinal-group: 1;
+  box-ordinal-group: 1;
+}  
+
 }
