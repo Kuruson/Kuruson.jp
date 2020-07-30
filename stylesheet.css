@@ -238,7 +238,7 @@ color: #00afcc;
 .section4 .site-title{
   display:table-cell;
   display:inline-block;
-  width:300px;
+  width:450px;
 }
 
 .section4 h5{
@@ -247,7 +247,7 @@ color: #00afcc;
 }
 
 .section4 p{
-  font-size:10px;
+  font-size:15px;
   font-family: "MS Mincho";
 }
   
