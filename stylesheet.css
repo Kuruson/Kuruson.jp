@@ -222,6 +222,15 @@ color: #00afcc;
 
 @media screen and (min-width:600px) and (max-width:699px){
 
+.title {
+  font-family:"ＭＳ 明朝","MS Mincho";
+  padding-top:18px;
+  text-align: center;
+  color: #ff149;
+  font-size:45px;
+}
+  
+  
   .main-logo{
     position: relative;
     overflow: hidden;
@@ -275,7 +284,7 @@ color: #00afcc;
 }
 
 .section4 p{
-  font-size:15px;
+  font-size:14px;
   font-family: "MS Mincho";
 }
 
