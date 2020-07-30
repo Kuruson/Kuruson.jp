@@ -114,6 +114,32 @@ color: #00afcc;
   padding-right:70px;
   padding-bottom:20px;
 }
+  
+#main {
+display: -webkit-box;
+display: -moz-box;
+display: box;
+-webkit-box-orient: vertical;
+-moz-box-orient: vertical;
+box-orient: vertical;
+}
+
+#main-logo {
+-webkit-box-ordinal-group: 3;
+-moz-box-ordinal-group: 3;
+box-ordinal-group: 3;
+}
+#hoge {
+-webkit-box-ordinal-group: 2;
+-moz-box-ordinal-group: 2;
+box-ordinal-group: 2;
+}  
+#section4 {
+-webkit-box-ordinal-group: 1;
+-moz-box-ordinal-group: 1;
+box-ordinal-group: 1;
+}  
+
 }
 
 @media screen and (min-width:905px) and ( max-width:1034px) {
