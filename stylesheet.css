@@ -116,6 +116,7 @@ color: #00afcc;
 }
   
 #main {
+width: 400px;
 display: -webkit-box;
 display: -moz-box;
 display: box;
