@@ -159,14 +159,7 @@ color: #00afcc;
 
 @media screen and (min-width:700px) and (max-width:769px){
 
-.title {
-  font-family:"ＭＳ 明朝","MS Mincho";
-  padding-top:18px;
-  text-align: center;
-  color: #fff462;
-  font-size:45px;
-}
-  
+
   .main-logo{
     position: relative;
     overflow: hidden;
@@ -496,7 +489,7 @@ color: #00afcc;
   font-family:"ＭＳ 明朝","MS Mincho";
   padding-top:18px;
   text-align: center;
-  color: #fff462;
+  color: #6c3524;
   font-size:45px;
 }
   
@@ -512,10 +505,6 @@ color: #00afcc;
 
 .main-logo ul {
   position: absolute;
-  top:0;
-  right:0;
-  bottom:0;
-  left:0;
   margin:auto;
 }
 
