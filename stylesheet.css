@@ -147,7 +147,7 @@ color: #00afcc;
 }
 }
 
-@media screen and (min-width:680px) and (max-width:769px){
+@media screen and (min-width:700px) and (max-width:769px){
 
   .title {
   font-family:"ＭＳ 明朝","MS Mincho";
@@ -173,7 +173,7 @@ color: #00afcc;
   left: -50%; /* 各リスト項目になるli要素を左に50%移動。 */
   float: left;
   list-style: none; /* 項目にぼっちを出したくない場合はこれを設定（今回はあんまり関係ないですが） */
-  font-size: 15px;
+  font-size: 17px;
   padding-right:30px;
   padding-bottom:10px;
 }
@@ -228,7 +228,7 @@ color: #00afcc;
 }
 }
 
-@media screen and (min-width:600px) and (max-width:679px){
+@media screen and (min-width:600px) and (max-width:699px){
 
   .main-logo{
     position: relative;
