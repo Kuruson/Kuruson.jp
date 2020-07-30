@@ -311,7 +311,7 @@ color: #00afcc;
   left: -50%; /* 各リスト項目になるli要素を左に50%移動。 */
   float: left;
   list-style: none; /* 項目にぼっちを出したくない場合はこれを設定（今回はあんまり関係ないですが） */
-  font-size: 14px;
+  font-size: 13px;
   padding-right:16px;
   padding-bottom:20px;
 }
