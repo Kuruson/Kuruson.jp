@@ -216,6 +216,14 @@ color: #00afcc;
 }
 
 
-padding-top:50px;@media screen and (max-width:599px){
+@media screen and (max-width:599px){
+
+  .hoge{
+  padding-top:40px;
+  text-align: center;
+  padding-bottom:100px;
+  width="400" height="215"
+}
   
+}
   
