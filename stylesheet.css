@@ -32,7 +32,7 @@ h3 {
   float: left;
   list-style: none; /* 項目にぼっちを出したくない場合はこれを設定（今回はあんまり関係ないですが） */
   font-size: 20px;
-  padding-top:30px;
+  padding-top:20px;
   padding-right:100px;
   padding-bottom:20px;
 }
@@ -112,7 +112,7 @@ color: #00afcc;
   float: left;
   list-style: none; /* 項目にぼっちを出したくない場合はこれを設定（今回はあんまり関係ないですが） */
   font-size: 20px;
-  padding-top:30px;
+  padding-top:20px;
   padding-right:70px;
   padding-bottom:20px;
 }
@@ -132,7 +132,7 @@ color: #00afcc;
   float: left;
   list-style: none; /* 項目にぼっちを出したくない場合はこれを設定（今回はあんまり関係ないですが） */
   font-size: 18px;
-  padding-top:30px;
+  padding-top:20px;
   padding-right:60px;
   padding-bottom:20px;
 }
@@ -160,7 +160,7 @@ color: #00afcc;
   float: left;
   list-style: none; /* 項目にぼっちを出したくない場合はこれを設定（今回はあんまり関係ないですが） */
   font-size: 18px;
-  padding-top:30px;
+  padding-top:20px;
   padding-right:40px;
   padding-bottom:20px;
 }
