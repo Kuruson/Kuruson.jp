@@ -259,7 +259,57 @@ color: #00afcc;
 }
 }
   
-@media screen and (max-width:519px) {
+@media screen and (min-width:500px) and (max-width:519px) {
+  
+.title {
+  font-family:"ＭＳ 明朝","MS Mincho";
+  padding-top:18px;
+  text-align: center;
+  color: #ff7f50;
+  font-size:45px;
+}
+  
+.section4{
+  text-align:center;
+}
+
+.section4 .logo{
+  display:inline;
+  zoom:1;
+}
+
+.section4 .site-title{
+  display:table-cell;
+  display:inline-block;
+  width:480px;
+}
+
+.section4 h5{
+  font-size:18px;
+  font-family: "MS PMincho";
+}
+
+.section4 p{
+  font-size:15px;
+  font-family: "MS Mincho";
+}
+  
+.section5{
+  text-align:center;
+  padding-top:50px;
+}
+
+.section5 .twitter-timeline{
+  display:block;
+  zoom:1;
+}
+  
+.section5 .site-title{
+    display:none;
+}
+}
+
+@media screen and (max-width:499px) {
   
 .title {
   font-family:"ＭＳ 明朝","MS Mincho";
