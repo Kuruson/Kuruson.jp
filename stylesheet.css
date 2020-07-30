@@ -504,7 +504,7 @@ color: #00afcc;
   font-family:"ＭＳ 明朝","MS Mincho";
   padding-top:28px;
   text-align: center;
-  color: #d70035;
+  color: #00a960;
   font-size:45px;
 }
   
@@ -517,7 +517,7 @@ h3 {
    
 a {
 font-family:"Meiryo";
-color: #003f8e;
+color: #192f60;
 }  
   
 .main-logo{
@@ -537,7 +537,7 @@ color: #003f8e;
   left: -50%; /* 各リスト項目になるli要素を左に50%移動。 */
   list-style: none; /* 項目にぼっちを出したくない場合はこれを設定（今回はあんまり関係ないですが） */
   font-weight:bold;
-  font-size: 20px;
+  font-size: 21px;
   padding-bottom:20px;
 }
   
