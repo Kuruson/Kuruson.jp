@@ -208,11 +208,18 @@ color: #00afcc;
   font-family: "MS Mincho";
 }
 
+.section5{
+  text-align:center;
+}
 
+.section5 .twitter-timeline{
+  display:block;
+  zoom:1;
+}
 .section5 .site-title{
     display:table-cell;
     display:block;
-    padding-left:120px;
+    padding-left:140px;
   }
 }
 
