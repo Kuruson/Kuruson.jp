@@ -504,7 +504,7 @@ color: #00afcc;
   font-family:"ＭＳ 明朝","MS Mincho";
   padding-top:28px;
   text-align: center;
-  color: #043c78;
+  color: #d70035;
   font-size:45px;
 }
   
@@ -517,7 +517,7 @@ h3 {
    
 a {
 font-family:"Meiryo";
-color: #043c78;
+color: #003f8e;
 }  
   
 .main-logo{
@@ -528,13 +528,14 @@ color: #043c78;
 
 .main-logo ul {
   position: relative;
-  left: 70%; /* リスト全体であるul要素を右に50%移動。つまり先頭を中央に持ってくる感じです。 */
+  left: 60%; /* リスト全体であるul要素を右に50%移動。つまり先頭を中央に持ってくる感じです。 */
   float: left
 }
 
 .main-logo ul li {
   position: relative;
   left: -50%; /* 各リスト項目になるli要素を左に50%移動。 */
+  list-style: none; /* 項目にぼっちを出したくない場合はこれを設定（今回はあんまり関係ないですが） */
   font-weight:bold;
   font-size: 20px;
   padding-bottom:20px;
