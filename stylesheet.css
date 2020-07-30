@@ -125,16 +125,11 @@ box-orient: vertical;
 }
 
 #main-logo {
--webkit-box-ordinal-group: 3;
--moz-box-ordinal-group: 3;
-box-ordinal-group: 3;
-}
-#hoge {
 -webkit-box-ordinal-group: 2;
 -moz-box-ordinal-group: 2;
 box-ordinal-group: 2;
-}  
-#section4 {
+}
+#hoge {
 -webkit-box-ordinal-group: 1;
 -moz-box-ordinal-group: 1;
 box-ordinal-group: 1;
