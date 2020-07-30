@@ -148,14 +148,7 @@ color: #00afcc;
 }
 
 @media screen and (min-width:600px) and (max-width:769px){
-  .title {
-  padding-top:18px;
-  color: #c71585;
-  font-size:45px;
-  font-family:"MS Mincho";
-  text-align: center;
-}
-  
+
   .main-logo{
     position: relative;
     overflow: hidden;
@@ -210,7 +203,7 @@ color: #00afcc;
 
 .section5{
   text-align:center;
-  padding-top:87px;
+  padding-top:50px;
 }
 
 .section5 .twitter-timeline{
