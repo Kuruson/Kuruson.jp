@@ -139,7 +139,7 @@ color: #00afcc;
   font-family:"MS Mincho", "ＭＳ 明朝", serif;
   padding-top:28px;
   text-align: center;
-  color:#008000;
+  color:#ff0000;
   font-size:45px;
 }  
   
@@ -148,7 +148,7 @@ color: #00afcc;
   left: -52%; /* 各リスト項目になるli要素を左に50%移動。 */
   float: left;
   list-style: none; /* 項目にぼっちを出したくない場合はこれを設定（今回はあんまり関係ないですが） */
-  font-size: 18px;
+  font-size: 17px;
   padding-top:10px;
   padding-right:60px;
   padding-bottom:20px;
