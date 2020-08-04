@@ -133,7 +133,7 @@ color: #00afcc;
 }    
 }
 
-@media screen and (min-width:909px) and ( max-width:1034px) {
+@media screen and (min-width:905px) and ( max-width:1034px) {
   
 .title {
   font-family:"MS Mincho", "ＭＳ 明朝", serif;
@@ -161,7 +161,7 @@ color: #00afcc;
 }   
 }
 
-@media screen and (min-width:770px) and ( max-width:908px) {
+@media screen and (min-width:770px) and ( max-width:904px) {
   
 .title {
   font-family:"MS Mincho", "ＭＳ 明朝", serif;
