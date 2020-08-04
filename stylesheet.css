@@ -106,6 +106,15 @@ color: #00afcc;
 
 
 @media screen and (min-width:1035px) and ( max-width:1207px) {
+
+.title {
+  font-family:"MS Mincho", "ＭＳ 明朝", serif;
+  padding-top:28px;
+  text-align: center;
+  color: #ff0000;
+  font-size:45px;
+}  
+  
 .main-logo ul li {
   position: relative;
   left: -50%; /* 各リスト項目になるli要素を左に50%移動。 */
@@ -125,6 +134,15 @@ color: #00afcc;
 }
 
 @media screen and (min-width:905px) and ( max-width:1034px) {
+  
+.title {
+  font-family:"MS Mincho", "ＭＳ 明朝", serif;
+  padding-top:28px;
+  text-align: center;
+  color:#ffff00;
+  font-size:45px;
+}  
+  
 .main-logo ul li {
   position: relative;
   left: -50%; /* 各リスト項目になるli要素を左に50%移動。 */
@@ -144,6 +162,15 @@ color: #00afcc;
 }
 
 @media screen and (min-width:770px) and ( max-width:904px) {
+  
+.title {
+  font-family:"MS Mincho", "ＭＳ 明朝", serif;
+  padding-top:28px;
+  text-align: center;
+  color:#008000;
+  font-size:45px;
+}  
+  
 .main-logo ul li {
   position: relative;
   left: -50%; /* 各リスト項目になるli要素を左に50%移動。 */
@@ -170,6 +197,15 @@ color: #00afcc;
 }
 
 @media screen and (min-width:700px) and (max-width:769px){
+  
+.title {
+  font-family:"MS Mincho", "ＭＳ 明朝", serif;
+  padding-top:28px;
+  text-align: center;
+  color:#0000ff;
+  font-size:45px;
+}  
+  
 .main-logo{
   position: relative;
   overflow: hidden;
@@ -243,6 +279,15 @@ a {
 }
 
 @media screen and (min-width:600px) and (max-width:699px){
+  
+.title {
+  font-family:"MS Mincho", "ＭＳ 明朝", serif;
+  padding-top:28px;
+  text-align: center;
+  color:#ff00ff;
+  font-size:45px;
+}  
+  
 .main-logo{
   position: relative;
   overflow: hidden;
