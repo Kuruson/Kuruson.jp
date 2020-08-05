@@ -243,15 +243,6 @@ a {
 }
 
 @media screen and (min-width:600px) and (max-width:699px){
-  
-.title {
-  font-family:"MS Mincho", "ＭＳ 明朝", serif;
-  padding-top:28px;
-  text-align: center;
-  color:#ff00ff;
-  font-size:45px;
-}  
-  
 .main-logo{
   position: relative;
   overflow: hidden;
@@ -325,15 +316,6 @@ a {
 }
 
 @media screen and (min-width:520px) and (max-width:599px) {
-  
-.title {
-  font-family:"MS Mincho", "ＭＳ 明朝", serif;
-  padding-top:28px;
-  text-align: center;
-  color:#008000;
-  font-size:45px;
-}    
-  
 .main-logo{
   position: relative;
   overflow: hidden;
@@ -407,15 +389,6 @@ a {
 }
   
 @media screen and (min-width:500px) and (max-width:519px) {
-
-.title {
-  font-family:"MS Mincho", "ＭＳ 明朝", serif;
-  padding-top:28px;
-  text-align: center;
-  color:#ff0000;
-  font-size:45px;
-}    
-  
 .main-logo{
   position: relative;
   overflow: hidden;
