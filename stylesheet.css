@@ -350,8 +350,8 @@ a {
   left: -50%; /* 各リスト項目になるli要素を左に50%移動。 */
   float: left;
   list-style: none; /* 項目にぼっちを出したくない場合はこれを設定（今回はあんまり関係ないですが） */
-  font-size: 12.7px;
-  padding-right:18px;
+  font-size: 12.5px;
+  padding-right:17.5px;
   padding-bottom:10px;
 }
  
